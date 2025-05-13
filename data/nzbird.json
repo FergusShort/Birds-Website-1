@@ -1,0 +1,1374 @@
+[
+    {
+        "common_name": "Antipodes Island parakeet",
+        "original_name": "",
+        "scientific_name": "Cyanoramphus unicolor",
+        "other_name": [
+            "Antipodes Island parakeet",
+            "green parakeet",
+            "uniform parakeet"
+        ],
+        "order": "Psittaciformes",
+        "family": "Psittaculidae",
+        "status": "Naturally Uncommon",
+        "length": "32 cm (male), 29 cm (female)",
+        "weight": "130 g",
+        "photo": {
+            "credit": "Mark Fraser",
+            "source": "data/images/antipodes-island-parakeet-3.jpg"
+        }
+    },
+    {
+        "common_name": "Auckland island rail",
+        "original_name": "",
+        "scientific_name": "Lewinia muelleri",
+        "other_name": [
+            "Auckland Island rail"
+        ],
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "status": "Naturally Uncommon",
+        "length": "20 cm",
+        "weight": "90 g",
+        "photo": {
+            "credit": "DOC Rod Morris",
+            "source": "data/images/auckland-island-rail-1.jpg"
+        }
+    },
+    {
+        "common_name": "Auckland Island Shag",
+        "original_name": "Kawau o Motu Maha",
+        "scientific_name": "Leucocarbo colensoi",
+        "other_name": [
+            "Auckland Island shag"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Nationally Vulnerable",
+        "length": "63 cm",
+        "weight": "2 kg",
+        "photo": {
+            "credit": "DOC John Kendrick",
+            "source": "data/images/auckland-island-shag-14.jpg"
+        }
+    },
+    {
+        "common_name": "Auckland island teal",
+        "original_name": "T\u0113t\u0113 k\u0101k\u0101riki",
+        "scientific_name": "Anas aucklandica",
+        "other_name": [
+            "Auckland Island teal",
+            "Auckland teal",
+            "Auckland Island flightless duck",
+            "flightless teal"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Nationally Vulnerable",
+        "length": "45 cm",
+        "weight": "550 g (male); 420 g (female)",
+        "photo": {
+            "credit": "Kate Bee",
+            "source": "data/images/auckland-island-teal-6.jpg"
+        }
+    },
+    {
+        "common_name": "Banded dotterel",
+        "original_name": "T\u016bturiwhatu",
+        "scientific_name": "Charadrius bicinctus",
+        "other_name": [
+            "Banded dotterel",
+            "Pohowera",
+            "double-banded plover",
+            "tuturiwhatu"
+        ],
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "status": "Declining",
+        "length": "20 cm",
+        "weight": "60 g",
+        "photo": {
+            "credit": "Ormond Torr",
+            "source": "data/images/banded-dotterel-3.jpg"
+        }
+    },
+    {
+        "common_name": "Bellbird",
+        "original_name": "Korimako",
+        "scientific_name": "Anthornis melanura",
+        "other_name": [
+            "Bellbird",
+            "New Zealand bellbird",
+            "makomako",
+            "mockie",
+            "bell bird"
+        ],
+        "order": "Passeriformes",
+        "family": "Meliphagidae",
+        "status": "Not Threatened",
+        "length": "20 cm",
+        "weight": "34 g (male); 26 g (female)",
+        "photo": {
+            "credit": "Neil Fitzgerald",
+            "source": "data/images/bellbird-4.jpg"
+        }
+    },
+    {
+        "common_name": "Black robin",
+        "original_name": "Karure",
+        "scientific_name": "Petroica traversi",
+        "other_name": [
+            "Black robin",
+            "Chatham Island black robin",
+            "Chatham Island robin",
+            "kakaruia"
+        ],
+        "order": "Passeriformes",
+        "family": "Petroicidae",
+        "status": "Nationally Critical",
+        "length": "15 cm",
+        "weight": "22 - 25 g",
+        "photo": {
+            "credit": "David Boyle",
+            "source": "data/images/black-robin-1.jpg"
+        }
+    },
+    {
+        "common_name": "Black stilt",
+        "original_name": "Kak\u012b",
+        "scientific_name": "Himantopus novaezelandiae",
+        "other_name": [
+            "Black stilt",
+            "kaki"
+        ],
+        "order": "Charadriiformes",
+        "family": "Recurvirostridae",
+        "status": "Nationally Critical",
+        "length": "40 cm",
+        "weight": "220 g",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/black-stilt-4.jpg"
+        }
+    },
+    {
+        "common_name": "Black-billed gull",
+        "original_name": "Tar\u0101puka",
+        "scientific_name": "Chroicocephalus bulleri",
+        "other_name": [
+            "Black-billed gull",
+            "Buller's gull",
+            "tarapuka",
+            "seagull",
+            "blackbilled gull",
+            "black billed gull"
+        ],
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "status": "Declining",
+        "length": "35 - 38 cm",
+        "weight": "230 g",
+        "photo": {
+            "credit": "John Flux",
+            "source": "data/images/black-billed-gull-5.jpg"
+        }
+    },
+    {
+        "common_name": "Black-fronted tern",
+        "original_name": "Tarapirohe",
+        "scientific_name": "Chlidonias albostriatus",
+        "other_name": [
+            "Black-fronted tern",
+            "tarapiroe",
+            "blackfronted tern",
+            "black fronted tern"
+        ],
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "status": "Nationally Endangered",
+        "length": "28 cm",
+        "weight": "95 g",
+        "photo": {
+            "credit": "Steve Attwood",
+            "source": "data/images/black-fronted-tern-29.jpg"
+        }
+    },
+    {
+        "common_name": "Blue duck",
+        "original_name": "Whio",
+        "scientific_name": "Hymenolaimus malacorhynchos",
+        "other_name": [
+            "Blue duck",
+            "mountain duck",
+            "blue mountain duck"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Nationally Vulnerable",
+        "length": "50 - 55 cm",
+        "weight": "900 g (male); 770 g (female)",
+        "photo": {
+            "credit": "Les Feasey",
+            "source": "data/images/blue-duck-5.jpg"
+        }
+    },
+    {
+        "common_name": "Bounty Island shag",
+        "original_name": "",
+        "scientific_name": "Leucocarbo ranfurlyi",
+        "other_name": [
+            "Bounty Island shag",
+            "Bounty Island cormorant"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Naturally Uncommon",
+        "length": "71 cm",
+        "weight": "2.0 - 2.9 kg",
+        "photo": {
+            "credit": "Sara Larcombe",
+            "source": "data/images/bounty-island-shag-5.jpg"
+        }
+    },
+    {
+        "common_name": "Brown creeper",
+        "original_name": "P\u012bpipi",
+        "scientific_name": "Mohoua novaeseelandiae",
+        "other_name": [
+            "Brown creeper",
+            "New Zealand creeper",
+            "pipipi",
+            "New Zealand titmouse"
+        ],
+        "order": "Passeriformes",
+        "family": "Mohouidae",
+        "status": "Not Threatened",
+        "length": "13 cm",
+        "weight": "13.5 g (male); 11 g (female)",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/brown-creeper-10.jpg"
+        }
+    },
+    {
+        "common_name": "Brown teal",
+        "original_name": "P\u0101teke",
+        "scientific_name": "Anas chlorotis",
+        "other_name": [
+            "Brown teal",
+            "brown duck",
+            "pateke"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Recovering",
+        "length": "48 cm",
+        "weight": "650 g (male); 580 g (female)",
+        "photo": {
+            "credit": "Les Feasey",
+            "source": "data/images/brown-teal-3.jpg"
+        }
+    },
+    {
+        "common_name": "Campbell Island shag",
+        "original_name": "",
+        "scientific_name": "Leucocarbo campbelli",
+        "other_name": [
+            "Campbell Island shag",
+            "Campbell Island cormorant"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Naturally Uncommon",
+        "length": "63 cm",
+        "weight": "1.6 - 2.0 kg",
+        "photo": {
+            "credit": "DOC Alan Wright",
+            "source": "data/images/campbell-island-shag-14.jpg"
+        }
+    },
+    {
+        "common_name": "Campbell Island teal",
+        "original_name": "",
+        "scientific_name": "Anas nesiotis",
+        "other_name": [
+            "Campbell Island teal",
+            "Campbell Island flightless teal"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Nationally Increasing",
+        "length": "43 cm",
+        "weight": "400 g (male); 310 g (female)",
+        "photo": {
+            "credit": "David Boyle",
+            "source": "data/images/campbell-island-teal-6.jpg"
+        }
+    },
+    {
+        "common_name": "Chatham Island oystercatcher",
+        "original_name": "T\u014drea tai",
+        "scientific_name": "Haematopus chathamensis",
+        "other_name": [
+            "Chatham Island oystercatcher",
+            "torea tai"
+        ],
+        "order": "Charadriiformes",
+        "family": "Haematopodidae",
+        "status": "Nationally Critical",
+        "length": "48 cm",
+        "weight": "600 g",
+        "photo": {
+            "credit": "Alan Tennyson",
+            "source": "data/images/chatham-island-oystercatcher-4.jpg"
+        }
+    },
+    {
+        "common_name": "Chatham Island shag",
+        "original_name": "Papua",
+        "scientific_name": "Leucocarbo onslowi",
+        "other_name": [
+            "Chatham Island shag",
+            "Chatham Island cormorant",
+            "Chatham shag"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Nationally Vulnerable",
+        "length": "63 cm",
+        "weight": "2.0 - 2.5 kg",
+        "photo": {
+            "credit": "Alan Tennyson",
+            "source": "data/images/chatham-island-shag-9.jpg"
+        }
+    },
+    {
+        "common_name": "Chatham Island snipe",
+        "original_name": "",
+        "scientific_name": "Coenocorypha pusilla",
+        "other_name": [
+            "Chatham Island snipe"
+        ],
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "status": "Nationally Vulnerable",
+        "length": "20 cm",
+        "weight": "80 g",
+        "photo": {
+            "credit": "Colin Miskelly",
+            "source": "data/images/chatham-island-snipe-3.jpg"
+        }
+    },
+    {
+        "common_name": "Chatham Island warbler",
+        "original_name": "",
+        "scientific_name": "Gerygone albofrontata",
+        "other_name": [
+            "Chatham Island warbler",
+            "Chatham gerygone"
+        ],
+        "order": "Passeriformes",
+        "family": "Acanthizidae",
+        "status": "Naturally Uncommon",
+        "length": "12 cm",
+        "weight": "10 g (male); 8.5 g (female)",
+        "photo": {
+            "credit": "Leon Berard",
+            "source": "data/images/chatham-island-warbler-3.jpg"
+        }
+    },
+    {
+        "common_name": "Fernbird",
+        "original_name": "M\u0101t\u0101t\u0101",
+        "scientific_name": "Poodytes punctatus",
+        "other_name": [
+            "Fernbird",
+            "m\u0101t\u0101",
+            "koro\u0101tito",
+            "matata",
+            "koroatito",
+            "utick"
+        ],
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "status": "Declining",
+        "length": "18 cm",
+        "weight": "35 g",
+        "photo": {
+            "credit": "Adam Clarke",
+            "source": "data/images/fernbird-6.jpg"
+        }
+    },
+    {
+        "common_name": "Fiordland crested penguin",
+        "original_name": "Tawaki",
+        "scientific_name": "Eudyptes pachyrhynchus",
+        "other_name": [
+            "Fiordland crested penguin",
+            "Fiordland penguin",
+            "New Zealand crested penguin",
+            "pokotiwha",
+            "thick-billed penguin",
+            "Victoria penguin"
+        ],
+        "order": "Sphenisciformes",
+        "family": "Spheniscidae",
+        "status": "Declining",
+        "length": "60 cm",
+        "weight": "4 kg",
+        "photo": {
+            "credit": "Douglas Gimesy",
+            "source": "data/images/fiordland-crested-penguin-25.jpg"
+        }
+    },
+    {
+        "common_name": "Great spotted kiwi",
+        "original_name": "Roroa",
+        "scientific_name": "Apteryx maxima",
+        "other_name": [
+            "Great spotted kiwi",
+            "roa"
+        ],
+        "order": "Apterygiformes",
+        "family": "Apterygidae",
+        "status": "Nationally Vulnerable",
+        "length": "45 cm",
+        "weight": "2.2 kg (male), 3 kg (female)",
+        "photo": {
+            "credit": "DOC Rod Morris",
+            "source": "data/images/great-spotted-kiwi-2.jpg"
+        }
+    },
+    {
+        "common_name": "Grey warbler",
+        "original_name": "",
+        "scientific_name": "Gerygone igata",
+        "other_name": [
+            "Grey warbler",
+            "Riroriro",
+            "rainbird",
+            "teetotum",
+            "gray warbler",
+            "New Zealand gerygone",
+            "grey gerygone"
+        ],
+        "order": "Passeriformes",
+        "family": "Acanthizidae",
+        "status": "Not Threatened",
+        "length": "11 cm",
+        "weight": "5.5 - 6.5 g",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/grey-warbler-2.jpg"
+        }
+    },
+    {
+        "common_name": "Kaka",
+        "original_name": "K\u0101k\u0101",
+        "scientific_name": "Nestor meridionalis",
+        "other_name": [
+            "Kaka",
+            "bush parrot",
+            "brown parrot",
+            "kawkaw"
+        ],
+        "order": "Psittaciformes",
+        "family": "Strigopidae",
+        "status": "Recovering",
+        "length": "38 - 44 cm",
+        "weight": "340 - 400 g",
+        "photo": {
+            "credit": "Judi Lapsley Miller",
+            "source": "data/images/kaka-30.jpg"
+        }
+    },
+    {
+        "common_name": "Kakapo",
+        "original_name": "K\u0101k\u0101p\u014d",
+        "scientific_name": "Strigops habroptila",
+        "other_name": [
+            "Kakapo",
+            "owl-parrot",
+            "tarepo",
+            "tarapo",
+            "night parrot"
+        ],
+        "order": "Psittaciformes",
+        "family": "Strigopidae",
+        "status": "Nationally Critical",
+        "length": "58 - 64 cm",
+        "weight": "2 - 4 kg (males), 1 - 2.5 kg (females)",
+        "photo": {
+            "credit": "Colin Miskelly",
+            "source": "data/images/kakapo-3.jpg"
+        }
+    },
+    {
+        "common_name": "Kea",
+        "original_name": "Kea",
+        "scientific_name": "Nestor notabilis",
+        "other_name": [
+            "mountain parrot",
+            "New Zealand mountain parrot"
+        ],
+        "order": "Psittaciformes",
+        "family": "Strigopidae",
+        "status": "Nationally Endangered",
+        "length": "46 cm",
+        "weight": "900 - 1100 g (male), 700 - 900 g (female)",
+        "photo": {
+            "credit": "Mark Fraser",
+            "source": "data/images/kea-13.jpg"
+        }
+    },
+    {
+        "common_name": "King shag",
+        "original_name": "Kawau p\u0101teketeke",
+        "scientific_name": "Leucocarbo carunculatus",
+        "other_name": [
+            "New Zealand king shag",
+            "king shag",
+            "kawau",
+            "New Zealand king cormorant",
+            "rough-faced shag",
+            "carunculated shag",
+            "Marlborough Sounds shag",
+            "Cook Strait cormorant",
+            "kawau pateketeke"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Nationally Endangered",
+        "length": "76 cm",
+        "weight": "2.5 kg",
+        "photo": {
+            "credit": "Mennobart Van Eerden",
+            "source": "data/images/king-shag-5.jpg"
+        }
+    },
+    {
+        "common_name": "Little spotted kiwi",
+        "original_name": "Kiwi pukupuku",
+        "scientific_name": "Apteryx owenii",
+        "other_name": [
+            "Little spotted kiwi"
+        ],
+        "order": "Apterygiformes",
+        "family": "Apterygidae",
+        "status": "Nationally Increasing",
+        "length": "30 cm",
+        "weight": "1150 g (male), 1350 g (female)",
+        "photo": {
+            "credit": "Andrew Digby",
+            "source": "data/images/little-spotted-kiwi-9.jpg"
+        }
+    },
+    {
+        "common_name": "Long-tailed cuckoo",
+        "original_name": "Koekoe\u0101",
+        "scientific_name": "Eudynamys taitensis",
+        "other_name": [
+            "Long-tailed cuckoo",
+            "koekoea",
+            "kohoperoa",
+            "long-tailed koel",
+            "longtailed cuckoo",
+            "long tailed cuckoo"
+        ],
+        "order": "Cuculiformes",
+        "family": "Cuculidae",
+        "status": "Nationally Vulnerable",
+        "length": "40 cm",
+        "weight": "125 g",
+        "photo": {
+            "credit": "Adam Clarke",
+            "source": "data/images/long-tailed-cuckoo-1.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand dotterel",
+        "original_name": "T\u016bturiwhatu",
+        "scientific_name": "Charadrius obscurus",
+        "other_name": [
+            "New Zealand dotterel",
+            "red-breasted dotterel",
+            "tuturiwhatu",
+            "tuturiwhatu-pukunui",
+            "rako"
+        ],
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "status": "Recovering",
+        "length": "25 cm",
+        "weight": "146 g (northern), 160 g (southern)",
+        "photo": {
+            "credit": "Tony Whitehead",
+            "source": "data/images/new-zealand-dotterel-1.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand falcon",
+        "original_name": "K\u0101rearea",
+        "scientific_name": "Falco novaeseelandiae",
+        "other_name": [
+            "New Zealand falcon",
+            "bush hawk",
+            "sparrow hawk",
+            "bush falcon",
+            "southern falcon",
+            "eastern falcon",
+            "quail hawk",
+            "karearea"
+        ],
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "status": "Recovering",
+        "length": "40 - 50 cm",
+        "weight": "205 - 340 g (male), 420 - 740 g (female)",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/new-zealand-falcon-9.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand fantail",
+        "original_name": "P\u012bwakawaka",
+        "scientific_name": "Rhipidura fuliginosa",
+        "other_name": [
+            "fantail",
+            "piwakawaka",
+            "grey fantail", 
+            "pied fantail",
+            "black fantail",
+            "t\u012brairaka, tirairaka"
+        ],
+        "order": "Passeriformes",
+        "family": "Rhipiduridae",
+        "status": "Not Threatened",
+        "length": "16 cm",
+        "weight": "8 g",
+        "photo": {
+            "credit": "Cheryl Marriner",
+            "source": "data/images/fantail-1.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand pigeon",
+        "original_name": "Kerer\u016b",
+        "scientific_name": "Hemiphaga novaeseelandiae",
+        "other_name": [
+            "New Zealand pigeon",
+            "kereru",
+            "kukupa",
+            "kuku",
+            "wood pigeon",
+            "native pigeon",
+            "kokopa"
+        ],
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "status": "Not Threatened",
+        "length": "50 cm",
+        "weight": "630 g",
+        "photo": {
+            "credit": "Ormond Torr",
+            "source": "data/images/new-zealand-pigeon-1.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand Pipit",
+        "original_name": "P\u012bhoihoi",
+        "scientific_name": "Anthus novaeseelandiae",
+        "other_name": [
+            "New Zealand pipit",
+            "pipit",
+            "pihoihoi",
+            "Richard's pipit"
+        ],
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "status": "Naturally Uncommon",
+        "length": "18 cm",
+        "weight": "35 g",
+        "photo": {
+            "credit": "Duncan Watson",
+            "source": "data/images/new-zealand-pipit-2.jpg"
+        }
+    },
+    {
+        "common_name": "New Zealand scaup",
+        "original_name": "P\u0101pango",
+        "scientific_name": "Aythya novaeseelandiae",
+        "other_name": [
+            "New Zealand scaup",
+            "black teal",
+            "papango",
+            "matapouri",
+            "titiporangi",
+            "raipo"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Not Threatened",
+        "length": "40 cm",
+        "weight": "695 g (male); 610 g (female)",
+        "photo": {
+            "credit": "Tony Whitehead",
+            "source": "data/images/new-zealand-scaup-2.jpg"
+        }
+    },
+    {
+        "common_name": "North Island brown kiwi",
+        "original_name": "Kiwi-nui",
+        "scientific_name": "Apteryx mantelli",
+        "other_name": [
+            "North Island brown kiwi"
+        ],
+        "order": "Apterygiformes",
+        "family": "Apterygidae",
+        "status": "Not Threatened",
+        "length": "40 cm",
+        "weight": "2 kg (male), 2.7 kg (female)",
+        "photo": {
+            "credit": "DOC Rod Morris",
+            "source": "data/images/north-island-brown-kiwi-1.jpg"
+        }
+    },
+    {
+        "common_name": "North Island Kokako",
+        "original_name": "K\u014dkako",
+        "scientific_name": "Callaeas wilsoni",
+        "other_name": [
+            "North Island kokako",
+            "blue-wattled crow",
+            "hokako",
+            "honga",
+            "onga",
+            "honge",
+            "onge",
+            "pakara",
+            "werewere"
+        ],
+        "order": "Passeriformes",
+        "family": "Callaeidae",
+        "status": "Nationally Increasing",
+        "length": "38 cm",
+        "weight": "233 g (male), 218 g (female)",
+        "photo": {
+            "credit": "Banded dotterel",
+            "source": "data/images/north-island-kokako-5.jpg"
+        }
+    },
+    {
+        "common_name": "North Island robin",
+        "original_name": "Toutouwai",
+        "scientific_name": "Petroica longipes",
+        "other_name": [
+            "North Island robin",
+            "New Zealand robin",
+            "bush robin"
+        ],
+        "order": "Passeriformes",
+        "family": "Petroicidae",
+        "status": "Declining",
+        "length": "18 cm",
+        "weight": "35 g",
+        "photo": {
+            "credit": "Duncan Watson",
+            "source": "data/images/north-island-robin-7.jpg"
+        }
+    },
+    {
+        "common_name": "North Island saddleback",
+        "original_name": "T\u012beke",
+        "scientific_name": "Philesturnus rufusater",
+        "other_name": [
+            "North Island saddleback",
+            "tieke",
+            "tiaki"
+        ],
+        "order": "Passeriformes",
+        "family": "Callaeidae",
+        "status": "Relict",
+        "length": "25 cm",
+        "weight": "70 g",
+        "photo": {
+            "credit": "Tony Whitehead",
+            "source": "data/images/north-island-saddleback-11.jpg"
+        }
+    },
+    {
+        "common_name": "Okarito brown kiwi",
+        "original_name": "Rowi",
+        "scientific_name": "Apteryx rowi",
+        "other_name": [
+            "Okarito brown kiwi",
+            "Okarito kiwi"
+        ],
+        "order": "Apterygiformes",
+        "family": "Apterygidae",
+        "status": "Nationally Endangered",
+        "length": "40 cm",
+        "weight": "1.9 kg (male), 2.6 kg (female)",
+        "photo": {
+            "credit": "Chrissy Wicks",
+            "source": "data/images/okarito-brown-kiwi-1.jpg"
+        }
+    },
+    {
+        "common_name": "Orange-fronted parakeet",
+        "original_name": "K\u0101k\u0101riki karaka",
+        "scientific_name": "Cyanoramphus malherbi",
+        "other_name": [
+            "Orange-fronted parakeet",
+            "Malherbe's parakeet",
+            "k\u0101k\u0101riki",
+            "kakariki",
+            "kakariki karaka",
+            "orangefronted parakeet",
+            "orange fronted parakeet"
+        ],
+        "order": "Psittaciformes",
+        "family": "Psittaculidae",
+        "status": "Nationally Critical",
+        "length": "19 - 22 cm",
+        "weight": "40 - 52 g (males), 30 - 41 g (females)",
+        "photo": {
+            "credit": "John Kearvell",
+            "source": "data/images/orange-fronted-parakeet-6.jpg"
+        }
+    },
+    {
+        "common_name": "Paradise shelduck",
+        "original_name": "P\u016btangitangi",
+        "scientific_name": "Tadorna variegata",
+        "other_name": [
+            "Paradise shelduck",
+            "paradise duck",
+            "putangitangi",
+            "pari",
+            "parry",
+            "parrie"
+        ],
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "status": "Not Threatened",
+        "length": "63 - 70 cm",
+        "weight": "1.7 kg (male); 1.4 kg (female)",
+        "photo": {
+            "credit": "Peter Reese",
+            "source": "data/images/paradise-shelduck-12.jpg"
+        }
+    },
+    {
+        "common_name": "Pitt Island shag",
+        "original_name": "Kawau o Rangihaute",
+        "scientific_name": "Phalacrocorax featherstoni",
+        "other_name": [
+            "Pitt Island shag",
+            "Pitt Island cormorant",
+            "Pitt shag"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Nationally Vulnerable",
+        "length": "63 cm",
+        "weight": "1 kg",
+        "photo": {
+            "credit": "Mark Fraser",
+            "source": "data/images/pitt-island-shag-6.jpg"
+        }
+    },
+    {
+        "common_name": "Red-billed gull",
+        "original_name": "Tar\u0101punga",
+        "scientific_name": "Chroicocephalus novaehollandiae",
+        "other_name": [
+            "Red-billed Gull",
+            "silver gull",
+            "tarapunga",
+            "mackerel gull",
+            "Jackie (Chathams)",
+            "akiaki",
+            "seagull",
+            "redbilled gull",
+            "red billed gull"
+        ],
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "status": "Declining",
+        "length": "37 cm",
+        "weight": "240 - 320 g",
+        "photo": {
+            "credit": "Albert Aanensen",
+            "source": "data/images/red-billed-gull-25.jpg"
+        }
+    },
+    {
+        "common_name": "Rifleman",
+        "original_name": "T\u012btitipounamu",
+        "scientific_name": "Acanthisitta chloris",
+        "other_name": [
+            "Rifleman",
+            "tititipounamu",
+            "titipounamu"
+        ],
+        "order": "Passeriformes",
+        "family": "Acanthisittidae",
+        "status": "Not Threatened",
+        "length": "7 - 9 cm",
+        "weight": "6 g",
+        "photo": {
+            "credit": "Glenda Rees",
+            "source": "data/images/rifleman-13.jpg"
+        }
+    },
+    {
+        "common_name": "Rock wren",
+        "original_name": "P\u012bwauwau",
+        "scientific_name": "Xenicus gilviventris",
+        "other_name": [
+            "Rock wren",
+            "New Zealand rock wren",
+            "piwauwau",
+            "m\u0101tuitui",
+            "matuitui",
+            "South Island wren",
+            "tuke"
+        ],
+        "order": "Passeriformes",
+        "family": "Acanthisittidae",
+        "status": "Nationally Endangered",
+        "length": "10 cm",
+        "weight": "16 - 20 g",
+        "photo": {
+            "credit": "Suzi Phillips",
+            "source": "data/images/rock-wren-3.jpg"
+        }
+    },
+    {
+        "common_name": "Shore plover",
+        "original_name": "Tuturuatu",
+        "scientific_name": "Thinornis novaeseelandiae",
+        "other_name": [
+            "Shore plover",
+            "New Zealand shore plover",
+            "t\u016bturuatu",
+            "sand plover",
+            "New Zealand plover",
+            "shore dotterel"
+        ],
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "status": "Nationally Critical",
+        "length": "20 cm",
+        "weight": "61 g",
+        "photo": {
+            "credit": "DOC Don Merton",
+            "source": "data/images/shore-plover-1.jpg"
+        }
+    },
+    {
+        "common_name": "Snares Island snipe",
+        "original_name": "Tutukiwi",
+        "scientific_name": "Coenocorypha huegeli",
+        "other_name": [
+            "Snares Island snipe",
+            "tutukiwi",
+            "New Zealand snipe (collective name for several forms now recognised as full scientific_name)"
+        ],
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "status": "Naturally Uncommon",
+        "length": "22 cm",
+        "weight": "109 g",
+        "photo": {
+            "credit": "DOC Rod Morris",
+            "source": "data/images/snares-island-snipe-5.jpg"
+        }
+    },
+    {
+        "common_name": "South Island kokako",
+        "original_name": "K\u014dk\u0101",
+        "scientific_name": "Callaeas cinerea",
+        "other_name": [
+            "South Island kokako",
+            "orange-wattled crow",
+            "cinereous wattlebird",
+            "koka"
+        ],
+        "order": "Passeriformes",
+        "family": "Callaeidae",
+        "status": "Data Deficient",
+        "length": "38 cm",
+        "weight": "230 g (male); 218 g (female)",
+        "photo": {
+            "credit": "Te_Papa George Edward",
+            "source": "data/images/south-island-kokako-2.jpg"
+        }
+    },
+    {
+        "common_name": "South Island pied oystercatcher",
+        "original_name": "T\u014drea",
+        "scientific_name": "Haematopus finschi",
+        "other_name": [
+            "South Island pied oystercatcher",
+            "New Zealand pied oystercatcher",
+            "Finsch's oystercatcher",
+            "torea",
+            "SIPO"
+        ],
+        "order": "Charadriiformes",
+        "family": "Haematopodidae",
+        "status": "Declining",
+        "length": "46 cm",
+        "weight": "550 g",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/south-island-pied-oystercatcher-1.jpg"
+        }
+    },
+    {
+        "common_name": "South Island robin",
+        "original_name": "Kakaruai",
+        "scientific_name": "Petroica australis",
+        "other_name": [
+            "South Island robin",
+            "New Zealand robin",
+            "kakaruwai",
+            "kakariwai",
+            "toutouwai",
+            "bush robin"
+        ],
+        "order": "Passeriformes",
+        "family": "Petroicidae",
+        "status": "Declining",
+        "length": "18 cm",
+        "weight": "35 g",
+        "photo": {
+            "credit": "Sabine Bernert",
+            "source": "data/images/south-island-robin-7.jpg"
+        }
+    },
+    {
+        "common_name": "South Island saddleback",
+        "original_name": "T\u012beke",
+        "scientific_name": "Philesturnus carunculatus",
+        "other_name": [
+            "South Island saddleback",
+            "tieke",
+            "jackbird"
+        ],
+        "order": "Passeriformes",
+        "family": "Callaeidae",
+        "status": "Recovering",
+        "length": "25 cm",
+        "weight": "70 - 80 g",
+        "photo": {
+            "credit": "Duncan Watson",
+            "source": "data/images/south-island-saddleback-1.jpg"
+        }
+    },
+    {
+        "common_name": "Southern brown kiwi",
+        "original_name": "Tokoeka",
+        "scientific_name": "Apteryx australis",
+        "other_name": [
+            "Southern brown kiwi"
+        ],
+        "order": "Apterygiformes",
+        "family": "Apterygidae",
+        "status": "Naturally Uncommon",
+        "length": "45 cm",
+        "weight": "2.4 kg (male), 3.1 kg (female)",
+        "photo": {
+            "credit": "DOC John Kendrick",
+            "source": "data/images/southern-brown-kiwi-5.jpg"
+        }
+    },
+    {
+        "common_name": "Spotted shag",
+        "original_name": "Kawau tikitiki",
+        "scientific_name": "Phalacrocorax punctatus",
+        "other_name": [
+            "parekareka",
+            "blue shag"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Nationally Vulnerable",
+        "length": "64 - 74 cm",
+        "weight": "700 - 1200 g",
+        "photo": {
+            "credit": "Steve Attwood",
+            "source": "data/images/spotted-shag-12.jpg"
+        }
+    },
+    {
+        "common_name": "Stewart Island shag",
+        "original_name": "Matapo",
+        "scientific_name": "Leucocarbo chalconotus",
+        "other_name": [
+            "Otago shag",
+            "bronze shag",
+            "kawau",
+            "Stewart Island shag",
+            "Gray\u2019s shag"
+        ],
+        "order": "Suliformes",
+        "family": "Phalacrocoracidae",
+        "status": "Recovering",
+        "length": "68 cm",
+        "weight": "2.5 kg",
+        "photo": {
+            "credit": "Philip Griffin",
+            "source": "data/images/stewart-island-shag-1.jpg"
+        }
+    },
+    {
+        "common_name": "Stitchbird",
+        "original_name": "Hihi",
+        "scientific_name": "Notiomystis cincta",
+        "other_name": [
+            "Stitchbird"
+        ],
+        "order": "Passeriformes",
+        "family": "Notiomystidae",
+        "status": "Nationally Vulnerable",
+        "length": "18 cm",
+        "weight": "36.5 g (male); 30 g (female)",
+        "photo": {
+            "credit": "Tony Whitehead",
+            "source": "data/images/stitchbird-2.jpg"
+        }
+    },
+    {
+        "common_name": "Subantarctic snipe",
+        "original_name": "",
+        "scientific_name": "Coenocorypha aucklandica",
+        "other_name": [
+            "Subantarctic snipe",
+            "Auckland Island snipe",
+            "New Zealand snipe (collective name for several forms now recognised as full scientific_name)"
+        ],
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "status": "Naturally Uncommon",
+        "length": "23 cm",
+        "weight": "110 g",
+        "photo": {
+            "credit": "Ian Armitage",
+            "source": "data/images/subantarctic-snipe-12.jpg"
+        }
+    },
+    {
+        "common_name": "Takahe",
+        "original_name": "Takah\u0113",
+        "scientific_name": "Porphyrio hochstetteri",
+        "other_name": [
+            "South Island takahe",
+            "notornis"
+        ],
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "status": "Nationally Vulnerable",
+        "length": "50 cm",
+        "weight": "2 - 3.5 kg",
+        "photo": {
+            "credit": "Cheryl Marriner",
+            "source": "data/images/takahe-31.jpg"
+        }
+    },
+    {
+        "common_name": "Tomtit",
+        "original_name": "Miromiro",
+        "scientific_name": "Petroica macrocephala",
+        "other_name": [
+            "Tomtit",
+            "New Zealand tomtit",
+            "pied tit",
+            "yellow-breasted tit",
+            "black tit",
+            "ngirungiru",
+            "pied tomtit",
+            "yellow-breasted tomtit",
+            "black tomtit",
+            "piropiro",
+            "maui-potiki"
+        ],
+        "order": "Passeriformes",
+        "family": "Petroicidae",
+        "status": "Not Threatened",
+        "length": "13 cm",
+        "weight": "11 g",
+        "photo": {
+            "credit": "Albert Aanensen",
+            "source": "data/images/tomtit-1.jpg"
+        }
+    },
+    {
+        "common_name": "Tui",
+        "original_name": "T\u016b\u012b",
+        "scientific_name": "Prosthemadera novaeseelandiae",
+        "other_name": [
+            "Tui",
+            "parson bird",
+            "t\u016b\u012b",
+            "k\u014dk\u014d",
+            "koko"
+        ],
+        "order": "Passeriformes",
+        "family": "Meliphagidae",
+        "status": "Not Threatened",
+        "length": "30 cm",
+        "weight": "125 g (male); 90 g (female)",
+        "photo": {
+            "credit": "Neil Fitzgerald",
+            "source": "data/images/tui-2.jpg"
+        }
+    },
+    {
+        "common_name": "Variable oystercatcher",
+        "original_name": "T\u014drea pango",
+        "scientific_name": "Haematopus unicolor",
+        "other_name": [
+            "Variable oystercatcher",
+            "black oystercatcher",
+            "torea pango",
+            "t\u014drea tai",
+            "torea tai",
+            "t\u014drea",
+            "torea",
+            "VOC"
+        ],
+        "order": "Charadriiformes",
+        "family": "Haematopodidae",
+        "status": "Recovering",
+        "length": "48 cm",
+        "weight": "720 g",
+        "photo": {
+            "credit": "Ormond Torr",
+            "source": "data/images/variable-oystercatcher-5.jpg"
+        }
+    },
+    {
+        "common_name": "Weka",
+        "original_name": "Weka",
+        "scientific_name": "Gallirallus australis",
+        "other_name": [
+            "woodhen"
+        ],
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "status": "Not Threatened",
+        "length": "50 - 60 cm",
+        "weight": "430 - 1400 g",
+        "photo": {
+            "credit": "Les Feasey",
+            "source": "data/images/weka-2.jpg"
+        }
+    },
+    {
+        "common_name": "Whitehead",
+        "original_name": "P\u014dpokotea",
+        "scientific_name": "Mohoua albicilla",
+        "other_name": [
+            "Whitehead",
+            "p\u014dpokatea",
+            "popokatea",
+            "popokotea"
+        ],
+        "order": "Passeriformes",
+        "family": "Mohouidae",
+        "status": "Not Threatened",
+        "length": "15 cm",
+        "weight": "15 - 18 g",
+        "photo": {
+            "credit": "Jared Le Roy",
+            "source": "data/images/whitehead-4.jpg"
+        }
+    },
+    {
+        "common_name": "Wrybill",
+        "original_name": "Ngutu pare",
+        "scientific_name": "Anarhynchus frontalis",
+        "other_name": [
+            "Wrybill",
+            "wrybilled plover",
+            "ngutuparore",
+            "wrybill plover",
+            "crook-bill"
+        ],
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "status": "Nationally Increasing",
+        "length": "20 cm",
+        "weight": "55 g",
+        "photo": {
+            "credit": "Tony Whitehead",
+            "source": "data/images/wrybill-11.jpg"
+        }
+    },
+    {
+        "common_name": "Yellow-crowned parakeet",
+        "original_name": "K\u0101k\u0101riki",
+        "scientific_name": "Cyanoramphus auriceps",
+        "other_name": [
+            "Yellow-crowned parakeet",
+            "kakariki",
+            "yellow crowned parakeet",
+            "yellowcrowned parakeet"
+        ],
+        "order": "Psittaciformes",
+        "family": "Psittaculidae",
+        "status": "Declining",
+        "length": "25 cm",
+        "weight": "51 g (male), 41 g (female)",
+        "photo": {
+            "credit": "Peter Reese",
+            "source": "data/images/yellow-crowned-parakeet-11.jpg"
+        }
+    },
+    {
+        "common_name": "Yellow-eyed penguin",
+        "original_name": "Hoiho",
+        "scientific_name": "Megadyptes antipodes",
+        "other_name": [
+            "Yellow-eyed penguin",
+            "hoihoi",
+            "yellow-crowned penguin",
+            "yellow eyed penguin",
+            "yelloweyed penguin",
+            "Waitaha penguin",
+            "Richdale's penguin"
+        ],
+        "order": "Sphenisciformes",
+        "family": "Spheniscidae",
+        "status": "Nationally Endangered",
+        "length": "65 cm",
+        "weight": "5 kg",
+        "photo": {
+            "credit": "Craig McKenzie",
+            "source": "data/images/yellow-eyed-penguin-2.jpg"
+        }
+    },
+    {
+        "common_name": "Yellowhead",
+        "original_name": "Mohua",
+        "scientific_name": "Mohoua ochrocephala",
+        "other_name": [
+            "Yellowhead",
+            "bush canary",
+            "mohoua"
+        ],
+        "order": "Passeriformes",
+        "family": "Mohouidae",
+        "status": "Declining",
+        "length": "15 cm",
+        "weight": "30 g (male); 26 g (female)",
+        "photo": {
+            "credit": "Glenda Rees",
+            "source": "data/images/yellowhead-1.jpg"
+        }
+    }
+]

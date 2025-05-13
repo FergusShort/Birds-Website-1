@@ -1,0 +1,133 @@
+body {
+    cursor: url('data/birdCursor.png') 10 8, auto; /* Adjust hotspot coordinates to match your image size */
+    background-color: e0e0e0;
+    
+}
+
+header {
+    color: black;
+    text-align: center;
+    position: relative; /* Required for absolute positioning of the birds */
+    overflow: visible;
+    pointer-events: none; /* Birds do not interfere with user interactions */
+    background-image: url('data/headerBackground.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+/* Individual bird styles */
+.image-bird {
+    position: absolute;
+    width: 100px; 
+    animation: fly;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+}
+
+/* Animation for the birds */
+@keyframes fly {
+    0% {
+        transform: translateX(-50px) translateY(0); /* Start at the top of the header */
+        opacity: 1;
+    }
+    50% {
+        transform: translateX(calc(100vw + 50px)) translateY(20px); /* Fly down slightly */
+        opacity: 1;
+    }
+    100% {
+        transform: translateX(calc(100vw + 50px)) translateY(0); /* End at the top of the header */
+        opacity: 1;
+    }
+}
+
+#title {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    width: fit-content;
+    background-color: #4CAF50; 
+    border: 2px solid green; 
+    border-radius: 10px;  /* Rounded corners */
+}
+
+#search-container {
+    display: flex;
+    justify-content: center;
+    margin: 0.5em 0;
+}
+
+#search-box, #status-filter, #photographer-filter, #add-bird-button {
+    padding: 0.2em;
+    margin: 0 0.5em;
+    box-shadow: 0 0 2px 2px #d9d9d9;
+    cursor: auto; 
+}
+
+#add-bird-button {
+    padding: 0.5em 1em;
+    font-size: 1em;
+    background-color: #4CAF50;
+    color: black;
+    border-radius: 5px; /* Rounded corners */
+    border: 2px solid green; 
+}
+
+#add-bird-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+#birds-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bird-card {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 1em;
+    padding: 1em;
+    width: 250px;
+    text-align: center;
+    font-size: 1em; /* Adjust font size for paragraphs */
+    color: #f0f0f0; 
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); 
+}
+
+.bird-card img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background-image: url('data/headerBackground.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 0.5em 0; /* Reduced padding */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 1em; /* Reduced font size */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.footer-text-container {
+    background-color: #4CAF50; /* Solid green background for the text */
+    display: inline-block; /* Ensure the background covers the text only */
+    padding: 0.2em 0.5em; /* Padding around the text */
+    border-radius: 5px; 
+}
+
+/* for the link section to only have the underline when hovered on */
+footer a {
+    text-decoration: none; /* Remove underline */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+}

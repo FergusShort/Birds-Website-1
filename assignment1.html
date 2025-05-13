@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIRDS OF AOTEAROA NEW ZEALAND - FERGUS SHORT 8188740</title>
+    <link rel="stylesheet" href="assignment1.css"> 
+    <script defer src="assignment1.js"></script> 
+    <link rel="icon" type="image/png" href="data/kiwi.png">
+</head>
+<body>
+    <header>
+        <h1 id="title">	BIRDS OF AOTEAROA NEW ZEALAND</h1>
+    </header>
+    <main>
+        <nav></nav>
+        <form id="search-form">
+            <div id="search-container">
+                <label for="search-box">Search birds:</label>
+                <input type="text" id="search-box" placeholder="Search birds...">   
+                <label for="status-filter">Filter by status:</label>
+                <select id="status-filter">
+                    <option value="">All Statuses</option>
+                    <option value="Not Threatened">Not Threatened</option>
+                    <option value="Naturally Uncommon">Naturally Uncommon</option>
+                    <option value="Relict">Relict</option>
+                    <option value="Recovering">Recovering</option>
+                    <option value="Declining">Declining</option>
+                    <option value="Nationally Increasing">Nationally Increasing</option>
+                    <option value="Nationally Vulnerable">Nationally Vulnerable</option>
+                    <option value="Nationally Endangered">Nationally Endangered</option>
+                    <option value="Extinct">Extinct</option>
+                    <option value="Data Deficient">Data Deficient</option>
+                </select>       
+                <label for="photographer-filter">Filter by photographer:</label>
+                <select id="photographer-filter">
+                    <option value="">Select Photographer</option>     
+                </select>
+                <button id="add-bird-button">Add Bird</button>
+            </div>
+        </form>
+        <div id="birds-container"></div> 
+    </main>
+    <footer>
+        <div class="footer-text-container">
+Data Licensed for Educational Use From: <a href="https://www.birdsnz.org.nz/" target="_blank">Birds NZ</a>
+        </div>
+    </footer>
+</body>
+</html>
